@@ -1,4 +1,4 @@
-# TEAM 42 - IITH Deep Learning 2026 Hackathon
+# IITH Deep Learning 2026 Hackathon
 
 Dual-stream PyTorch solution for binary synthetic scene classification, using RGB and gradient ResNet-34 streams with pseudo-labeling, BatchNorm adaptation, test-time augmentation, and probability-space ensembling.
 
